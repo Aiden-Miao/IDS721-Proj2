@@ -8,6 +8,7 @@ docker image ls
 
 ## Run the container
 docker run -it aidenmiao/ids721-proj2:latest python app.py
+
 ## Push to dockerhub
 ./push_docker.sh
 
