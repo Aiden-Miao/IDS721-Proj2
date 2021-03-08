@@ -13,5 +13,5 @@ docker run -it aidenmiao/ids721-proj2:latest python app.py
 ./push_docker.sh
 
 ## Run the docker image remotely 
-docker pull aidenmiao/ids721-proj2:latest
+docker pull aidenmiao/ids721-proj2:latest\
 docker run -it aidenmiao/ids721-proj2:latest python app.py
